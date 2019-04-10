@@ -1,0 +1,7 @@
+{
+    "name": "strongmod-cms/yii2-startbootstrap-coming-soon",
+    "license": "MIT",
+    "require": {
+        "npm-asset/startbootstrap-coming-soon": "*"
+    }
+}
